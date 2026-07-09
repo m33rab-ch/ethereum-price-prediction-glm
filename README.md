@@ -75,31 +75,31 @@ data/ETH_Historical_Data.csv
 
 ### Histogram
 
-![Histogram](images/histogram.png)
+![Histogram](Images/histogram.png)
 
 ### KDE Plot
 
-![KDE Plot](images/kde_plot.png)
+![KDE Plot](Images/kde_plot.png)
 
 ### Violin Plot
 
-![Violin Plot](images/violin_plot.png)
+![Violin Plot](Images/violin_plot.png)
 
 ### Pair Plot
 
-![Pair Plot](images/pair_plot.png)
+![Pair Plot](Images/pair_plot.png)
 
 ### Pie Chart
 
-![Pie Chart](images/pie_chart.png)
+![Pie Chart](Images/pie_chart.png)
 
 ### Outliers Before Removal
 
-![Outliers Before](images/outliers_before.png)
+![Outliers Before](Images/outliers_before.png)
 
 ### Outliers After Removal
 
-![Outliers After](images/outliers_after.png)
+![Outliers After](Images/outliers_after.png)
 
 ---
 
